@@ -6,7 +6,7 @@ export default function NavBar() {
     return(
         <div className="flex">
             <NavBarComponent/>
-            <div className="mx-12 my-9">
+            <div className="mx-12 my-9 w-full">
                 <Outlet/>
             </div>
         </div>
