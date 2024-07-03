@@ -1,0 +1,21 @@
+[{
+    "nome":"Guilherme",
+    "sobrenome":"Thomas",
+    "email":"g@gmail.com",
+    "telefone":"54-123456789"
+},{
+    "nome":"João",
+    "sobrenome":"Marques",
+    "email":"j@gmail.com",
+    "telefone":"54-123456789"
+},{
+    "nome":"José",
+    "sobrenome":"Almir",
+    "email":"ja@gmail.com",
+    "telefone":"54-123456789"
+},{
+    "nome":"Jonas",
+    "sobrenome":"Paqueta",
+    "email":"jp@gmail.com",
+    "telefone":"54-123456789"
+}]
